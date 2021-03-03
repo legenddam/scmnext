@@ -25,7 +25,7 @@
     "moment": "^2.24.0",
     "nuxt": "^2.0.0",
     "pluralize": "^7.0.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-loader": "^2.4.0",
     "pug-plain-loader": "^1.0.0",
     "simple-line-icons": "^2.4.1",
