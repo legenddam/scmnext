@@ -15,7 +15,7 @@
     "@nuxtjs/moment": "^1.2.0",
     "@nuxtjs/style-resources": "^0.1.2",
     "bootstrap-vue": "^2.0.0-rc.1",
-    "chart.js": "^2.7.1",
+    "chart.js": "^2.9.4",
     "cookieparser": "^0.1.0",
     "cross-env": "^5.2.0",
     "express": "^4.16.3",
